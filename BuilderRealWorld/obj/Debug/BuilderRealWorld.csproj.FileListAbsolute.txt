@@ -1,1 +1,5 @@
 F:\Git Repos\Design Patterns\BuilderRealWorld\BuilderRealWorld\bin\Debug\BuilderRealWorld.exe.config
+F:\Git Repos\Design Patterns\BuilderRealWorld\BuilderRealWorld\bin\Debug\BuilderRealWorld.exe
+F:\Git Repos\Design Patterns\BuilderRealWorld\BuilderRealWorld\bin\Debug\BuilderRealWorld.pdb
+F:\Git Repos\Design Patterns\BuilderRealWorld\BuilderRealWorld\obj\Debug\BuilderRealWorld.exe
+F:\Git Repos\Design Patterns\BuilderRealWorld\BuilderRealWorld\obj\Debug\BuilderRealWorld.pdb

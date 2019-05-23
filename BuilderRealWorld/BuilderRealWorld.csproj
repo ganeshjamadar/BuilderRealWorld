@@ -42,6 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CarBuilder.cs" />
+    <Compile Include="Vehicle.cs" />
+    <Compile Include="ScooterBuilder.cs" />
+    <Compile Include="MotorCycleBuilder.cs" />
+    <Compile Include="VehicleBuilder.cs" />
+    <Compile Include="Shop.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
